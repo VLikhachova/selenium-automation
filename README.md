@@ -1,2 +1,2 @@
 # selenium-automation
-This is a learnong project for test automation with Selenium and Python.
+This is a learning project for test automation with Selenium and Python.
